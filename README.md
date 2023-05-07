@@ -2,9 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=JunYoung,%20Jung&fontColor=ffffff&fontSize=90&fontAlign=58&fontAlignY=32&desc=Day_Tea&descSize=25&descAlign=85&descAlignY=53&animation=fadeIn)
 
-<h3 align="center">🛠 Teck Stack 🛠</h3>
 <p align="center">
-## &nbsp;
+## :book: Teck Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
