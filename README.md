@@ -1,5 +1,5 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=220&section=header&text=JunYoung,%20Jung&fontColor=fff&fontSize=90&fontAlign=58&fontAlignY=32&desc=Day_Tea&descSize=25&descAlign=92&descAlignY=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=JunYoung,%20Jung&fontColor=ffffff&fontSize=90&fontAlign=58&fontAlignY=32&desc=Day_Tea&descSize=25&descAlign=85&descAlignY=53)
 
 <p align="center">
 <h3 align="center">🛠 Teck Stack 🛠</h3>
