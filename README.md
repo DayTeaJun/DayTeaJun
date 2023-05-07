@@ -7,7 +7,8 @@
 <img src="https://img.shields.io/badge/HTML-E54E21?style=flat&logo=HTML&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/CSS-0D73B7?style=flat&logo=CSS&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>&nbsp
-<br>
+</br>
+</br>
 <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>&nbsp
 </p>
 
