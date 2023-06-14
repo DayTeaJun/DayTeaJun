@@ -20,6 +20,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DayTeaJun&langs_count=10&layout=compact&theme=dark)
 &nbsp;&nbsp;
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DayTeaJun&show_icons=true&theme=dracula)
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DayTeaJun&show_icons=true&theme=dracula) -->
 
 </div>
